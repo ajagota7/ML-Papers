@@ -17,8 +17,13 @@ Library of useful machine learning papers
 - [What Can Learned Intrinsic Rewards Capture?](https://arxiv.org/pdf/1912.05500)
 - [Plan-based Reward Shaping for Reinforcement Learning](https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes08IS.pdf)
 - [Reward Design via Online Gradient Ascent](https://web.eecs.umich.edu/~baveja/Papers/SorgSinghLewisNIPS2010.pdf)
-# Options
+- [Intrinsically Motivated Reinforcement Learning: An Evolutionary Perspective](https://web.eecs.umich.edu/~baveja/Papers/IMRLIEEETAMDFinal.pdf)
+- [Where Do Rewards Come From?](https://web.eecs.umich.edu/~baveja/Papers/singh-lewis-barto-2009-cogsci.pdf)
+- [Intrinsically Motivated Reinforcement Learning](https://web.eecs.umich.edu/~baveja/Papers/FinalNIPSIMRL.pdf)
+- 
 
+# Options
+- [Reward-Respecting Subtasks for Model-Based Reinforcement Learning](https://arxiv.org/pdf/2202.03466)
 
 
 # Concepts 

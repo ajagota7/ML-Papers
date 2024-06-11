@@ -15,6 +15,11 @@ Library of useful machine learning papers
 
 # Rewards 
 - [What Can Learned Intrinsic Rewards Capture?](https://arxiv.org/pdf/1912.05500)
+- [Plan-based Reward Shaping for Reinforcement Learning](https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes08IS.pdf)
+- [Reward Design via Online Gradient Ascent](https://web.eecs.umich.edu/~baveja/Papers/SorgSinghLewisNIPS2010.pdf)
+# Options
+
+
 
 # Concepts 
 - [The Geometry of Categorical and Hierarchical Concepts in Large Language Models](https://arxiv.org/pdf/2406.01506)

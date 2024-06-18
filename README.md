@@ -12,6 +12,8 @@ Library of useful machine learning papers
 
 
 # Off Policy Evaluation 
+- [Empirical Study of Off-Policy Policy Evaluation for Reinforcement Learning](https://arxiv.org/pdf/1911.06854)
+
 
 # Rewards 
 - [What Can Learned Intrinsic Rewards Capture?](https://arxiv.org/pdf/1912.05500)

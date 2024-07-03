@@ -22,7 +22,8 @@ Library of useful machine learning papers
 - [Intrinsically Motivated Reinforcement Learning: An Evolutionary Perspective](https://web.eecs.umich.edu/~baveja/Papers/IMRLIEEETAMDFinal.pdf)
 - [Where Do Rewards Come From?](https://web.eecs.umich.edu/~baveja/Papers/singh-lewis-barto-2009-cogsci.pdf)
 - [Intrinsically Motivated Reinforcement Learning](https://web.eecs.umich.edu/~baveja/Papers/FinalNIPSIMRL.pdf)
-- 
+- [Invariance in Policy Optimisation and Partial Identifiability in Reward Learning](https://openreview.net/pdf?id=nqvBUsnC5L)
+- [Useful Policy Invariant Shaping from Arbitrary Advice](https://arxiv.org/pdf/2011.01297)
 
 # Options
 - [Reward-Respecting Subtasks for Model-Based Reinforcement Learning](https://arxiv.org/pdf/2202.03466)
